@@ -2,12 +2,12 @@
 
 <img width="220" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
 
-# ⚡ NVIDIA Apex
+# ⚡ OptimizacionDeepLearning
 
 ### Optimización avanzada para entrenamiento de modelos Deep Learning con PyTorch 🚀
 
 <p align="center">
-  <b>NVIDIA Apex</b> es una biblioteca diseñada para acelerar y optimizar el entrenamiento de redes neuronales mediante Mixed Precision Training (AMP) y entrenamiento distribuido en múltiples GPUs.
+  <b>OptimizacionDeepLearning</b> es una biblioteca diseñada para acelerar y optimizar el entrenamiento de redes neuronales mediante Mixed Precision Training (AMP) y entrenamiento distribuido en múltiples GPUs.
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ Optimizadores acelerados por CUDA.
 # 📂 Estructura del proyecto
 
 ```bash
-apex/
+OptimizacionDeepLearning/
 │
 ├── apex/
 ├── apex/contrib/
@@ -196,7 +196,7 @@ apex/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/NVIDIA/apex.git
+git clone https://github.com/isairey/OptimizacionDeepLearning.git
 ```
 
 ---
@@ -204,7 +204,7 @@ git clone https://github.com/NVIDIA/apex.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd apex
+cd OptimizacionDeepLearning
 ```
 
 ---
@@ -337,9 +337,9 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## NVIDIA Deep Learning Team
+## Isai Reyes - Full Stack Developer
 
-Biblioteca oficial desarrollada por NVIDIA para optimizar modelos de Deep Learning en PyTorch mediante Mixed Precision y entrenamiento distribuido.
+
 
 </div>
 
@@ -355,12 +355,12 @@ Biblioteca oficial desarrollada por NVIDIA para optimizar modelos de Deep Learni
 
 # 📜 Licencia
 
-Proyecto open source mantenido por NVIDIA bajo su licencia oficial.
+MIT
 
 ---
 
 <div align="center">
 
-### ⚡ NVIDIA Apex — acelerando el entrenamiento de Deep Learning con GPUs NVIDIA 🚀
+### ⚡ OptimizacionDeepLearning — acelerando el entrenamiento de Deep Learning con GPUs NVIDIA 🚀
 
 </div>
